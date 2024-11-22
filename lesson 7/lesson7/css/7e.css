@@ -1,0 +1,10 @@
+.Search_bar{
+    color: gray;
+    font-size: 15px;
+    width: 300px;
+    padding: 12px 10px 12px 10px;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 1px 1px 10px rgba(0,0,0,0.25);
+    margin: 5px 5px;
+}
