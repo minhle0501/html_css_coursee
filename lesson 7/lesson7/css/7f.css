@@ -1,0 +1,22 @@
+p,input,button{
+    color: gray;
+    font-weight: bold;
+    font-size:15px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.mail_txt{
+    border-width: 2px;
+    padding: 5px 80px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+.agree_btn{
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 5px 135px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}

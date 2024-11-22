@@ -1,0 +1,26 @@
+img,input,button{
+    vertical-align: middle;
+}
+.cat_img{
+    width: 55px;
+    height: 55px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 120px;
+}
+.search_bar{
+    color: gray;
+    border: none;
+    width: 250px;
+    font-size: 18px;
+    padding: 10px 20px 10px 5px;
+}
+.tweet_btn{
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    font-size: 18px;
+    font-weight: bold;
+}
