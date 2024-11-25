@@ -1,0 +1,23 @@
+div{
+    text-align: center;
+}
+img{
+    width: 200px;
+    margin-bottom: 10px;
+}
+input{
+    width: 500px;
+    padding: 12px 16px;
+    border: none;
+    border-radius:30px;
+    box-shadow: 0px 1px 8px rgba(0,0,0, 0.4);
+    margin: 30px 0;
+}
+button{
+    font-size: 15px;
+    font-weight: bold;
+    border: none;
+    padding: 12px 20px;
+    margin-right:10px;
+    cursor: pointer;
+}
