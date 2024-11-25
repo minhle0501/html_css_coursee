@@ -1,0 +1,24 @@
+input{
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    font-size: 16px;
+    border-style: solid;
+    border-width: 1px;
+    width: 150px;
+    padding: 10px 5px;
+    border-radius: 6px;
+   margin-bottom: 10px;
+}
+.email_txt{
+    display: block;
+    width: 316px;
+}
+.signup_btn{
+    background-color: rgb(47, 127, 231);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 19px;
+    font-weight: bold;
+    padding: 12px 128px;
+}
