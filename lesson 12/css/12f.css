@@ -1,0 +1,48 @@
+body{
+    width: 400px;
+    max-width: 400px;
+}
+p,span{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0;
+    margin-bottom:0;
+}
+span{
+    font-weight: bold;
+    
+}
+p{
+    color: gray;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+img{
+    width: 70px;
+    height: 70px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 100px;
+}
+.flexbox{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.image{
+    width: 100px;
+}
+.profile-info{
+    flex: 1;
+    text-align: start;
+}
+button{
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}

@@ -1,0 +1,20 @@
+.flex{
+    width: 300px;
+    display:flex;
+}
+.flex1{
+    background-color: pink;
+    width: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    background-color: black;
+    color: white;
+}
+.flex2{
+    background-color: lightblue;
+    width: 200px;
+}
